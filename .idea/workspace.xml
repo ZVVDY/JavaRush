@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad56b21-7fd1-47a2-b406-4bc75a853ff5" name="Changes" comment="JavaRush Task">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRush.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/javarush/level6_array/level6_10/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/javarush/level6_array/level6_11/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/javarush/level6_array/level6_7/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/javarush/level6_array/level6_8/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/javarush/level7_functions/level7_0/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/javarush/level7_functions/level7_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/javarush/level7_functions/level7_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/javarush/level7_functions/level7_3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +48,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_6.Solution" />
+  <component name="RunManager" selected="Application.com.java.javarush.level6_array.level6_11.Solution">
+    <configuration name="com.java.javarush.level6_array.level6_10.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_10.Solution" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.javarush.level6_array.level6_6.*" />
+          <option name="PATTERN" value="com.java.javarush.level6_array.level6_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.java.javarush.level6_array.level6_2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_2.Solution" />
+    <configuration name="com.java.javarush.level6_array.level6_11.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_11.Solution" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.javarush.level6_array.level6_2.*" />
+          <option name="PATTERN" value="com.java.javarush.level6_array.level6_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.java.javarush.level6_array.level6_3.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_3.Solution" />
+    <configuration name="com.java.javarush.level6_array.level6_7.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_7.Solution" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.javarush.level6_array.level6_3.*" />
+          <option name="PATTERN" value="com.java.javarush.level6_array.level6_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.java.javarush.level6_array.level6_4.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_4.Solution" />
+    <configuration name="com.java.javarush.level6_array.level6_8.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_8.Solution" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.javarush.level6_array.level6_4.*" />
+          <option name="PATTERN" value="com.java.javarush.level6_array.level6_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.java.javarush.level6_array.level6_5.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level6_array.level6_5.Solution" />
+    <configuration name="com.java.javarush.level7_functions.level7_0.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.javarush.level7_functions.level7_0.Solution" />
       <module name="JavaRush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.javarush.level6_array.level6_5.*" />
+          <option name="PATTERN" value="com.java.javarush.level7_functions.level7_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.com.java.javarush.level6_array.level6_5.Solution" />
-        <item itemvalue="Application.com.java.javarush.level6_array.level6_4.Solution" />
-        <item itemvalue="Application.com.java.javarush.level6_array.level6_3.Solution" />
-        <item itemvalue="Application.com.java.javarush.level6_array.level6_2.Solution" />
+        <item itemvalue="Application.com.java.javarush.level6_array.level6_11.Solution" />
+        <item itemvalue="Application.com.java.javarush.level7_functions.level7_0.Solution" />
+        <item itemvalue="Application.com.java.javarush.level6_array.level6_10.Solution" />
+        <item itemvalue="Application.com.java.javarush.level6_array.level6_8.Solution" />
+        <item itemvalue="Application.com.java.javarush.level6_array.level6_7.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674250536195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JavaRush Task">
+      <created>1674251066600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674251066600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
